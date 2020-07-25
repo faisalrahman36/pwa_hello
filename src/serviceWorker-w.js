@@ -1,7 +1,7 @@
 //doCache should be true
 var doCache = true;
 
-var CACHE_NAME = 'pwa_hello-cache';
+var CACHE_NAME = 'pwa-app-cache';
 
 // Delete old caches
 
