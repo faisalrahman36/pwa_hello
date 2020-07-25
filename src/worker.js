@@ -1,3 +1,4 @@
+//doCache should be true
 var doCache = true;
 
 var CACHE_NAME = 'pwa-app-cache';
